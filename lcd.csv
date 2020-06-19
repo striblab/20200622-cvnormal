@@ -1,0 +1,95 @@
+label,content
+content," <div class=""strib-styles ssa ssb ssc"">
+  <section class=""container-lg elex-header"">
+    <h5 class=""font-popular-light topper""><span class=""font-popular-medium""><a href=""https://www.startribune.com/local/coronavirus/"">Coronavirus</a></span></h5>
+    <h1>Minnesota is slowly reopening, but falls short of normalcy</h1>
+  <div class=""byline"">
+    <address>By
+      <a rel=""author"" href=""http://www.startribune.com/jeff-hargarten/274254381/"">Jeff Hargarten</a>
+    </address>
+    <span class=""spacer""></span>
+    Star Tribune
+    <span class=""spacer-alt""></span>
+    <time pubdate datetime=""2019-11-11T16:00:00"">June 24, 2020</time>
+  </div>
+  <p></p>
+  <!-- share -->
+</section>
+      <section class=""container-lg leadin"">
+        <p>As COVID-19 lockdowns gradually roll back and the aftermath of civil unrest somewhat settles down, Minnesotans are seemingly socially distancing less and are more engaged with summertime activities.</p>
+
+        <p>Yet with many summer events canceled for the year and several restrictions still in place, normalcy seems far off, and may not fully return.</p>
+
+        <p>Data from various sources reveal some ways Minnesotans have started returning to normal routines – and other ways that life remains altered.</p>
+
+        <p>As new data is obtained, this page may be updated.</p>
+      </section>
+
+      <div class=""rule""></div>
+      <section class=""body"">
+        <h2 class=""chartTitle"">Vehicular traffic has roared back</h2>
+
+        <p>After weeks of climbing back toward normal levels, Minnesota's roadways are closer to typical activity levels.</p>
+
+        <p>Despite traffic density falling significantly since shelter-in-place orders took effect statewide, Minnesota Department of Transportation daily tracking shows the volume of vehicles now looks more like last year at this time.</p>
+      </section>
+
+      <div class=""slide space"">
+        <iframe title=""Traffic is up"" aria-label=""Interactive line chart"" id=""datawrapper-chart-2mMUF"" src=""//datawrapper.dwcdn.net/2mMUF/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""400""></iframe>
+      </div>
+
+
+      <div class=""rule""></div>
+      <section class=""body"">
+        <h2 class=""chartTitle"">Buses and trains remain emptier</h2>
+
+        <p>Even though transit routes have started opening back up, safety restrictions and service reductions remain across the Twin Cities metro area. That, combined with continued work-from-home arrangements, seem to still be depressing ridership on buses and light rail.</p>
+
+        <p>Ridership ceased completely as Metro Transit shut down over the period of unrest and mandatory curfews enforced immediately after the death of George Floyd, but have bounced back.</p>
+      </section>
+
+      <div class=""slide space"">
+        <iframe title=""Transit is down"" aria-label=""Interactive line chart"" id=""datawrapper-chart-A8Evn"" src=""//datawrapper.dwcdn.net/A8Evn/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""400""></iframe>
+      </div>
+
+      <div class=""rule""></div>
+      <section class=""body"">
+        <h2 class=""chartTitle"">Restaurant diners are returning, slowly</h2>
+        <p>Bars and restaurants will still be missing crowds for awhile too, since even with the reopening of indoor and outdoor dining, restrictions on capacity, diner spacing and required reservations seem have kept many patrons eating at home, getting takeout or ordering delivery.</p>
+      </section>
+
+      <div class=""slide space"">
+        <iframe title=""Dining is down"" aria-label=""Interactive line chart"" id=""datawrapper-chart-1IlCk"" src=""//datawrapper.dwcdn.net/1IlCk/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""400""></iframe>
+      </div>
+
+
+      <div class=""rule""></div>
+      <section class=""body"">
+        <h2 class=""chartTitle"">Social distancing breaks down</h2>
+        <p>On the whole, Minnesotans are back to typical isolation levels as well, according to Unacast data that measures social distancing. Minnesota's grade had been sliding gradually from a B+ when shelter-in-place started in March, reached a D- just before it ended, and now, like much of the United States, sits at an F.</p>
+
+        <p>And Google data shows where they're going: mostly to parks and other outdooor recreation areas to take advantage of Minnesota's limited summer weather.</p>
+      </section>
+
+      <div class=""slide space"">
+        <iframe title=""Distancing is down"" aria-label=""Interactive line chart"" id=""datawrapper-chart-37PQQ"" src=""//datawrapper.dwcdn.net/37PQQ/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""400""></iframe>
+      </div>
+
+
+<section class=""container-lg"">
+
+  <div class=""article-author-contact"">
+
+        <div class=""article-author-hcard"">
+                <p></p><p><span style=""font-size: 10pt; font-family: Arial;""><strong>Jeff Hargarten </strong>is a data journalist for the Star Tribune focusing on data-driven reporting and visualization. He has covered elections, technology, criminal justice, demographics and public health.</span></p><p></p>
+                <p><a class=""article-author-hcard__email"" target=""_blank"" href=""mailto:Jeff.Hargarten@startribune.com?subject=Minnesota is slowly reopening, but falls short of normalcyy"" data-linkname=""Jeff.Hargarten@startribune.com"" data-linktype=""email"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">Jeff.Hargarten@startribune.com</a>
+                <a class=""article-author-hcard__phone"" href=""tel:612-673-4642"" data-linkname=""612-673-4642"" data-linktype=""phone"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">612-673-4642</a>
+                <a class=""article-author-hcard__twitter"" href=""http://twitter.com/JeffHargarten"" target=""_blank"" data-linkname=""JeffHargarten"" data-linktype=""twitter"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">JeffHargarten</a></p>
+        </div>
+ </div>
+</section>
+</div>"
+scripts,news/projects/all/20200622-cvnormal/js/index.bundle.js
+styles,news/projects/all/20200622-cvnormal/styles/index.bundle.css
+script libraries,"<script src=""https://cdn.polyfill.io/v2/polyfill.min.js""></script>"
+style libraries,

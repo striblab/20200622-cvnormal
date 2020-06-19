@@ -8,8 +8,8 @@
       
       {
         "id": "index",
-        "articleId": "NEEDS-ARTICLE-ID",
-        "lcd": "NEEDS-LCD-ID",
+        "articleId": "568966791",
+        "lcd": "571372041",
         "default": true
       }
       
@@ -31,7 +31,7 @@
     "default": {
       "bucket": "static.startribune.com",
       "path": "news/projects-staging/all/20200622-cvnormal",
-      "url": "http://static.startribune.com/news/projects-staging/all/20200622-cvnormal/",
+      "url": "https://static.startribune.com/news/projects-staging/all/20200622-cvnormal/",
       "cacheSeconds": 30
     },
     "testing": {
@@ -43,7 +43,7 @@
     "production": {
       "bucket": "static.startribune.com",
       "path": "news/projects/all/20200622-cvnormal",
-      "url": "http://static.startribune.com/news/projects/all/20200622-cvnormal/",
+      "url": "https://static.startribune.com/news/projects/all/20200622-cvnormal/",
       "cacheSeconds": 600
     }
   }

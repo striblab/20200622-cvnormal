@@ -36,7 +36,7 @@ $selector-wrapper: '.strib-styles.ssa.ssb.ssc';
 }
 
 #timeline {
-  width: 100%;
+  width: 84%;
 }
 
 .timeline {
@@ -55,6 +55,10 @@ $selector-wrapper: '.strib-styles.ssa.ssb.ssc';
   align-items: center;
   font-weight: 100;
   font-size:12px;
+}
+
+.complete {
+  margin-top:25px;
 }
 
 .gradeb {
@@ -126,7 +130,7 @@ $selector-wrapper: '.strib-styles.ssa.ssb.ssc';
     }
   }
 
-  .chartTitle {
+  .chart-title {
     font-family: "Benton Sans";
     font-weight: 700;
     font-size: 19px !important;;
@@ -136,7 +140,7 @@ $selector-wrapper: '.strib-styles.ssa.ssb.ssc';
   }
   
 
-@media (min-device-width: 320px) and (max-device-width: 500px) {
+@media (min-width: 320px) and (max-width: 500px) {
   .timeline {
     list-style-type: none;
     display: block;
@@ -155,6 +159,17 @@ $selector-wrapper: '.strib-styles.ssa.ssb.ssc';
       top: 30%;
       transition: all 200ms ease-in; 
     }
+  }
+
+  .li.complete .status {
+    border-top: 0 !important;
+}
+
+#timeline {
+  padding-top:5px;
+}
+  #timeline h4:before {
+    left: 27%;
   }
 }
 

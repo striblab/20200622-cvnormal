@@ -1,6 +1,6 @@
-# 20200430 Actblue
+# 20200622 CV Normal
 
-Analysis of ActBlue filings from Minnesota
+Analysis of how things are normalizing amid COVID-19 in Minnesota
 
 ## Data
 
